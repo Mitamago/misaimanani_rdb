@@ -1,0 +1,8 @@
+##このサーバーの停止方法
+Ctrl+C
+
+##このサーバーの再起動方法
+- 他のサーバーが動いていたら停止
+-srcに移動して、npm start押す
+
+open http://localhost:3000 on chrome
